@@ -20,9 +20,9 @@ MacDonald
 --test--
 [% USE Lingua.EN.NameCase -%]
 [% 'Macdonald' | nc %]
-[% text = 'MacHon'; text.nc %]
+[% text = 'henry viii'; text.nc %]
 [% text = 'Von Trapp'; text.nc %]
 --expect--
 MacDonald
-Machon
+Henry VIII
 von Trapp

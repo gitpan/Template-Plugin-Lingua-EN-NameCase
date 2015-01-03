@@ -1,5 +1,5 @@
 Template-Plugin-Lingua-EN-NameCase
-===================================
+==================================
 
 The Lingua::EN::NameCase Template Toolkit plugin is an interface to the 
 Lingua::EN::NameCase module, which translates fractional number values into 
@@ -20,7 +20,7 @@ This module requires these modules:
 
   Template
   Template::Plugin
-  Lingua-EN-NameCase
+  Lingua::EN::NameCase
 
 For testing the module requires these modules:
 
@@ -36,7 +36,7 @@ For optional testing the module would like these modules:
 
 COPYRIGHT AND LICENSE
 
-  Copyright (C) 2014      Barbie for Miss Barbell Productions.
+  Copyright (C) 2014-2015 Barbie for Miss Barbell Productions.
 
 This distribution is free software; you can redistribute it and/or
 modify it under the Artistic Licence v2.
